@@ -15,7 +15,8 @@
     "mongo",
     "mongodb",
     "leveldb",
-    "sqlite"
+    "sqlite",
+    "azure"
   ],
   "version": "0.5.11",
   "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
@@ -36,7 +37,8 @@
     "pg": "2.5.x",
     "mysql": "2.0.x",
     "level": "0.17.x",
-    "sqlite3": "2.1.x"
+    "sqlite3": "2.1.x",
+    "azure": "0.9.x"
   },
   "engines": {
     "node": "*"
